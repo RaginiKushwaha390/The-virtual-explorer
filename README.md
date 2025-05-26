@@ -10,7 +10,7 @@
 
 Fill a brief description of this experiment here
 
-<b>Name of Developer | <b> Fill the name of experiment owner here 
+<b>Name of Developer | <b> Ragini Kushwaha 
 :--|:--|
 <b> Institute | <b> Rajkiya Engineering College Kannauj 
 <b> Email id|     <b>  kushwaharagini97@gmail.com
@@ -18,7 +18,8 @@ Fill a brief description of this experiment here
 
 ### Contributors List
 
-SrNo | Ragini Kushwaha |  Student | Electronics and communication engineering | Rajkiya engineering college kannauj | kushwaharagini97@gmail.com
+SrNo | Name |  Faculty or student | Department | Institute | Email
 :--|:--|:--|:--|:--|:--|
-1 | . | . | . | . | .
-2 | . | . | . | . | .
+1 | Payal Gupta | Student| Electronics and communication engineering | Rajkiya engineering college kannauj | payalkg9214@gmail.com
+2 |  Srishti Shukla| Student |Electronics and communication engineering |  Rajkiya engineering college kannauj | srishtishukla9569@gmail.com
+3 |  Anjali kumari| Student |Computer Science engineering |  Rajkiya engineering college kannauj | anjalikumari275305@gmail.com
